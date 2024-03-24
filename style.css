@@ -42,4 +42,9 @@ img {
     background-color: aliceblue;
     height: 100px;
     width: 200px;
+    
+}
+
+.centered-text{
+    font-family: 'anton', sans-serif;
 }
