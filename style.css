@@ -3,6 +3,7 @@
     width: 300px;
     padding:10px;
     border: 3px solid rgb(191, 208, 229);
+    text-align: center;
 }
 
 
@@ -38,13 +39,31 @@ img {
 
 }
 
-#a2 {
+#a2 {    
     background-color: aliceblue;
     height: 100px;
     width: 200px;
+    outline: black solid 1px;
     
 }
 
 .centered-text{
     font-family: 'anton', sans-serif;
+}
+
+label {
+    text-align: left;
+    display: flex;
+    width: 200px;
+}
+
+form { 
+    width: 200px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: red solid 2px; */
 }
