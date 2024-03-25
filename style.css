@@ -1,7 +1,7 @@
 .box {
     font-family: 'arial';
     width: 300px;
-    padding:10px;
+    padding: 10px;
     border: 3px solid rgb(191, 208, 229);
     text-align: center;
 }
@@ -12,14 +12,13 @@
     width: 850px;
     height: 324px;
     background-color: rgb(191, 208, 229);
-    margin: 20px; 
-    margin-top: 10px
-    
+    margin: 20px;
+    margin-top: 10px;
 }
 
 img {
     padding-top: 50px;
-    margin: 20px; 
+    margin: 20px;
 }
 
 .centered-text {
@@ -27,8 +26,8 @@ img {
     bottom: 60%;
     right: 67%;
     transform: translate(-50%, -50%);
-    color: white; 
-    font-size: 70px; 
+    color: white;
+    font-size: 70px;
     font-weight: bold;
 }
 
@@ -39,15 +38,15 @@ img {
 
 }
 
-#a2 {    
+#a2 {
     background-color: aliceblue;
     height: 100px;
     width: 200px;
     outline: black solid 1px;
-    
+
 }
 
-.centered-text{
+.centered-text {
     font-family: 'anton', sans-serif;
 }
 
@@ -57,7 +56,7 @@ label {
     width: 200px;
 }
 
-form { 
+form {
     width: 200px;
 }
 
@@ -65,5 +64,5 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* border: red solid 2px; */
+
 }
